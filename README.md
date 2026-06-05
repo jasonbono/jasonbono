@@ -10,7 +10,7 @@ you can read:
   Stripe Connect, Turso/Drizzle). Built with Claude Code, which is how I ship now.
   Published as a sanitized snapshot of real production code.
 
-<a href="https://giftaro.app"><img src="giftaro.png" alt="Giftaro" width="640"></a>
+<a href="https://giftaro.app"><img src="giftaro.gif" alt="Giftaro, a production group-gifting app" width="300"></a>
 
 [Google Scholar](https://scholar.google.com/citations?user=_uqbi1QAAAAJ&hl=en) ·
 [ORCID](https://orcid.org/0000-0002-3018-714X) ·
