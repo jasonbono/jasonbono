@@ -15,6 +15,8 @@ Most of what I have built lives behind security or IP walls. Here are a few you 
   thought-capture app (Next.js 16, React 19, local-first SQLite, Anthropic + OpenAI).
   Hybrid full-text and vector search with an agentic, tool-using assistant.
 
+  <a href="https://github.com/jasonbono/ThoughtKeeper"><img src="thoughtkeeper-demo.gif" alt="ThoughtKeeper, an AI-native thought-capture app" width="260"></a>
+
 - **[muon-field-averaging](https://github.com/jasonbono/muon-field-averaging)**: physics
   analysis from Fermilab's Muon g-2 experiment (recognized by the 2026 Breakthrough Prize
   in Fundamental Physics). It computes the muon-weighted average magnetic field by convolving
