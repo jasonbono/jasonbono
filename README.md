@@ -23,6 +23,13 @@ Most of what I have built lives behind security or IP walls. Here are a few you 
 
   <a href="https://github.com/jasonbono/muon-field-averaging"><img src="muon-beam.gif" alt="Muon beam distribution in motion, radial versus vertical" width="420"></a>
 
+- **[same-source-prob](https://github.com/jasonbono/same-source-prob)**: a paper deriving a
+  closed-form estimator for "did these two records come from the same source?", validated by
+  simulation with reproducible figure code. The probability theory behind entity resolution
+  and record linkage.
+
+  <a href="https://github.com/jasonbono/same-source-prob"><img src="same-source-convergence.png" alt="Estimator convergence with finite-sample marginals" width="700"></a>
+
 [Google Scholar](https://scholar.google.com/citations?user=_uqbi1QAAAAJ&hl=en) ·
 [ORCID](https://orcid.org/0000-0002-3018-714X) ·
 [LinkedIn](https://www.linkedin.com/in/jasonbono) · jasonbono@lucor.ai
